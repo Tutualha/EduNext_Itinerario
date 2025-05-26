@@ -82,4 +82,6 @@ Capacitar o participante para utilizar o computador e a internet de forma consci
 ## 📦 Licença
 
 Este projeto é de uso **livre e gratuito**. Compartilhe com quem precisa! ❤️
+
+
 TODO O CONTEUDO É REVISADO PELO GRUPO DO PROJETO PARA TER CERTEZA QUE AS FONTES SAO CONFIAVEIS
