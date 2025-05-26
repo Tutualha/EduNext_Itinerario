@@ -5,6 +5,7 @@
 
 Este projeto tem como objetivo promover a **inclusão digital gratuita**, oferecendo conteúdos e trilhas de aprendizado voltadas para pessoas que desejam dar os primeiros passos no mundo da informática. O foco é tornar a tecnologia acessível a todos, independente de idade ou escolaridade, ajudando a desenvolver habilidades digitais básicas essenciais para o mercado de trabalho e para o dia a dia.
 
+TODO O CONTEUDO É REVISADO PELO GRUPO DO PROJETO PARA TER CERTEZA QUE AS FONTES SAO CONFIAVEIS
 ---
 
 ## 📚 Trilha de Aprendizagem (Tópicos 1 a 10)
